@@ -1,0 +1,10 @@
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\bin\Debug\netcoreapp1.1\HomeworkTests.deps.json
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\bin\Debug\netcoreapp1.1\HomeworkTests.runtimeconfig.json
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\bin\Debug\netcoreapp1.1\HomeworkTests.runtimeconfig.dev.json
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\bin\Debug\netcoreapp1.1\HomeworkTests.dll
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\bin\Debug\netcoreapp1.1\HomeworkTests.pdb
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\obj\Debug\netcoreapp1.1\HomeworkTests.csprojResolveAssemblyReference.cache
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\obj\Debug\netcoreapp1.1\HomeworkTests.csproj.CoreCompileInputs.cache
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\obj\Debug\netcoreapp1.1\HomeworkTests.AssemblyInfo.cs
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\obj\Debug\netcoreapp1.1\HomeworkTests.dll
+C:\Users\paulverger\Documents\Visual Studio 2017\Projects\HomeworkTests\HomeworkTests\obj\Debug\netcoreapp1.1\HomeworkTests.pdb
