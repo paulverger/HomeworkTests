@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "homeworktests/1.0.0": {
+      "HomeworkTests/1.0.0": {
         "runtime": {
           "HomeworkTests.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "homeworktests/1.0.0": {
+    "HomeworkTests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
