@@ -12,7 +12,7 @@ namespace HomeworkTests
             //CheckStackAndQueueImplementations.CheckStackViaArray();
             //CheckStackAndQueueImplementations.CheckQueueVia2Stacks();
             //CheckStackAndQueueImplementations.CheckStackWithMin();
-            //TestMatrixProgs.TestRotateMatrixCcw();
+            //AbhiTestMatrixProgs.TestRotateMatrixCcw();
             TestMatrixProgs.TestRotate();
         }
     }
